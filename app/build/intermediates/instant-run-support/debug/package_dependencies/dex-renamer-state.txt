@@ -1,0 +1,4 @@
+#Tue Oct 03 22:34:56 AMT 2017
+base.0=/Users/rubenbaghajyan/Documents/projects/DoubleShot/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/Users/rubenbaghajyan/Documents/projects/DoubleShot/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex

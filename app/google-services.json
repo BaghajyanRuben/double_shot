@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506550044822",
+    "firebase_url": "https://doubleshot-fe676.firebaseio.com",
+    "project_id": "doubleshot-fe676",
+    "storage_bucket": "doubleshot-fe676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506550044822:android:43d8fb71f2233c86",
+        "android_client_info": {
+          "package_name": "com.coffee.doubleshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506550044822-jc2unsd95op58n683osjur38d2cb5eu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffee.doubleshot",
+            "certificate_hash": "e3a2198237457a318436a98ea2f88658e207d4a9"
+          }
+        },
+        {
+          "client_id": "506550044822-n049gkac1i7thmafgaluube1jv19sun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHOmlAZjjL9McO8XoEUn6kXrFlZIsvIAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506550044822-n049gkac1i7thmafgaluube1jv19sun1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
